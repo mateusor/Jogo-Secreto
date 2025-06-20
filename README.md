@@ -34,4 +34,20 @@ Um jogo simples e divertido em Python, onde o jogador precisa descobrir um núme
 
 ## 📂 Como executar
 
-1. Certifique-se de ter o **Python 3** ins
+1. Certifique-se de ter o **Python 3** instalado.
+2. Baixe ou clone este repositório.
+3. No terminal, execute o jogo com o seguinte comando:
+
+```bash
+python JogoLuciaCerto.py
+
+ ===>  BEM-VINDO AO JOGO SECRETO!  <=== 
+------------------------------------------------
+Objetivo: Descobrir um número secreto de 4 dígitos (entre 1000 e 9999) em até 10 tentativas!
+------------------------------------------------
+
+Tentativa 1/10 - Digite um número entre 1000 e 9999: 1234
+
+Dígitos corretos na posição: _ _ 3 _
+
+Você acertou 1 dígito, mas está na posição errada.
